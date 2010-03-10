@@ -1,0 +1,21 @@
+[user]
+	name = YOUR_FULL_NAME
+	email = YOUR_EMAIL
+[color]
+	diff = auto
+	status = auto
+	branch = auto
+	interactive = auto
+[alias]
+	st = status
+	ci = commit
+	co = checkout
+	br = branch
+[merge]
+	tool = opendiff
+	summary = true
+[core]
+	excludesfile = /Users/YOUR_USER/.gitignore
+[github]
+	user = YOUR_GITHUB_USER
+	token = YOUR_GITHUB_TOKEN
